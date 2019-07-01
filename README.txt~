@@ -1,0 +1,14 @@
+README	
+
+i.) "Words.txt" has the example words in it.
+
+1.) I compiled my program by typing "gcc aquinotranslate.c"
+
+2.)
+	a.)I ran my program by typing "./a.out"
+	
+	OR
+	
+	b.)I ran my program by running the
+	runnable code by typing "./aquinotranslate.c"
+

@@ -1,0 +1,19 @@
+//=========================================================
+//HW#: Nato HWK
+//Your name: Alejandro Aquino
+//Complier:  gcc
+//File type: C language
+//===========================================================
+//Purpose: 
+#include <stdio.h>
+void strcpy();
+
+int main()
+
+  string words[26];
+  string word;
+
+  cin 
+
+  return 0;
+}
